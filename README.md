@@ -27,12 +27,12 @@ pip install os subprocess
 
 ## Step 4: Clone the Repository or Download the Code
 ```bash
-
+git clone "https://github.com/dhruvbhatia2701/Linux-Audit-Hardning-Tool.git"
 ```
 
 ## Step 4: Run the Program
 ```bash
-
+python linux_audit_tool.py
 ```
 
 
