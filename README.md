@@ -2,11 +2,8 @@
 
 To make this program we will use Python Programming Language 
 
-# Requirements
-	•	Python 3
-	•	Linux system
-	•	ufw, systemd
-
+# Requirements:
+Python 3, Linux system, ufw, systemd
 
 
 ## Step 1: Install Python on your Linux System
